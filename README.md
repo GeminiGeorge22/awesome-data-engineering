@@ -47,6 +47,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Singer](https://www.singer.io/) – Open-source standard for data extraction and loading.
 - [Debezium](https://debezium.io/) – Change data capture (CDC) platform for databases.
 - [OLake](https://github.com/datazip-inc/olake) – Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 ## Streaming & Event Processing
 
